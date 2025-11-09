@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Fly.io config and logs
+fly.toml
+flyctl.log
+
+# Git files
+.git/
+.gitignore
