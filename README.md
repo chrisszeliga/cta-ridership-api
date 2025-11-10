@@ -1,7 +1,7 @@
 # CTA Ridership API
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-2.x-black?logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3.x-black?logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey?logo=sqlite&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
